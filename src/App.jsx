@@ -3,7 +3,7 @@ import Title from './components/Title';
 import Counter from './components/Counter';
 import './App.css';
 import BGIMG from './assets/TORCIDA.webp';
-import UseCountDown from './components/hooks/useCountDown';
+import UseCountDown from './components/hooks/UseCountDown';
 import JPO from "./assets/JPO.jpg";
 
 
